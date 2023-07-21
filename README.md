@@ -1,7 +1,6 @@
 
-# `Welcome to my github!` ✨
-<img width="30%" align="right"  src="https://media.tenor.com/7zKZuIk31GEAAAAM/bird-dance.gif">
-- 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
+# `Welcome to my github!` 
+### - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
 
 ## <img src="https://i.pinimg.com/originals/17/23/ec/1723ecdb201f285fe00af553d1a22c64.gif" width="30"> <b> Contact me 💎</b>
   
