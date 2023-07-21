@@ -5,7 +5,7 @@
 ## <img src="https://i.pinimg.com/originals/17/23/ec/1723ecdb201f285fe00af553d1a22c64.gif" width="30"> <b> Contact me 💎</b>
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:santigo.mejia6@utp.edu.co)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)]([https:www.linkedin.com/in/santi-mejia-ocampo](https://www.linkedin.com/in/santi-mejia-ocampo/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santi-mejia-ocampo/)
 </br>
 
 
