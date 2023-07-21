@@ -1,4 +1,4 @@
-
+<div align="center">
 # `Welcome to my github!` 
 ### - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
 
@@ -11,6 +11,7 @@ Coding Time
 
 [![GitHub santiOcampo01](https://img.shields.io/github/followers/santiOcampo01?label=follow&style=social&logoColor=black)](https://github.com/santiOcampo01)
 [![GitHub Views](https://komarev.com/ghpvc/?username=santiOcampo01&color=dc143c)](https://github.com/santiOcampo01)
+</div>
 </br>
 
 
@@ -36,7 +37,9 @@ Coding Time
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiOcampo01&theme=radical&hide_progress=true)
 </div>
-## <img src="https://cdn.pixabay.com/animation/2023/01/19/18/24/18-24-20-426_512.gif" width="70"> <b>GitHub Streak</b>
-
+<div align="center">
+ <img src="https://cdn.pixabay.com/animation/2023/01/19/18/24/18-24-20-426_512.gif" width="70"> <b>GitHub Streak</b>
+</div>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=santiOcampo01&theme=dark" /> </p>
+
   
