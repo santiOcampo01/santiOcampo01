@@ -1,13 +1,12 @@
 <div align="center">
-# `Welcome to my github!` 
-### - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻 </br>
+<h1> Welcome to my github!</h1>
+   <br>
+<h3> - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻</h3> </br>
 
 ## <img src="https://i.pinimg.com/originals/17/23/ec/1723ecdb201f285fe00af553d1a22c64.gif" width="30"> <b> Contact me 💎</b>
   
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:santigo.mejia6@utp.edu.co)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/santi-mejia-ocampo/)
-
-Coding Time
 
 [![GitHub santiOcampo01](https://img.shields.io/github/followers/santiOcampo01?label=follow&style=social&logoColor=black)](https://github.com/santiOcampo01)
 [![GitHub Views](https://komarev.com/ghpvc/?username=santiOcampo01&color=dc143c)](https://github.com/santiOcampo01)
@@ -16,7 +15,7 @@ Coding Time
 
 
 
-## I’m currently working on
+## I’m working with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Express js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
 
