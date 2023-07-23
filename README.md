@@ -2,6 +2,7 @@
 <h1> Welcome to my github!</h1>
    <br>
 <h3> - 👨🏽‍💻|-Fullstack developer-|👨🏽‍💻</h3> </br>
+<p>Desarrollador Full-Stack | Estudiante de Ingeniería en Sistemas | Frontend & Backend | Experiencia en JavaScript, HTML, CSS, React, Angular, SQL, Node.js, Express y Git. Apasionado por el desarrollo web y comprometido con aprender y mejorar constantemente. Dispuesto a asumir nuevos desafíos y contribuir con soluciones técnicas para impulsar el éxito de su proyecto. Disponible para trabajar como Freelancer. </p>
 
 ## <img src="https://i.pinimg.com/originals/17/23/ec/1723ecdb201f285fe00af553d1a22c64.gif" width="30"> <b> Contact me 💎</b>
   
